@@ -14,7 +14,7 @@
         "doctrine/collections": "^v1.2"
     },
     "require-dev": {
-        "phpunit/phpunit": "^5.7"
+        "phpunit/phpunit": "^4.8.35 || ^5.7 || ^6.0"
     },
     "autoload": {
         "psr-4": { "Avoran\\Collection\\": "src/" }
